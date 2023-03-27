@@ -1,4 +1,4 @@
 # eReader
 
-Hamlet
+Hamlet<br>
 By William Shakespeare
